@@ -1,2 +1,4 @@
 # hello-world
-Hello World
+Hello World!
+
+My name is Alan and I'm new to coding.
